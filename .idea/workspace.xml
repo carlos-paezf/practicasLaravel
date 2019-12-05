@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23ae6ef4-6b4b-42bc-bb99-5b1a021ff60d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/laravel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio1/app/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/app/Category.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio1/app/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/app/Post.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio1/app/Tag.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/app/Tag.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio1/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/app/User.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ejercicio1/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ejercicio1/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio1/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/database/factories/UserFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio1/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio1/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio1/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio1/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio1/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio1/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +117,7 @@
       <path value="$PROJECT_DIR$/ejercicio1/vendor/jakub-onderka/php-console-color" />
       <path value="$PROJECT_DIR$/ejercicio1/vendor/jakub-onderka/php-console-highlighter" />
       <path value="$PROJECT_DIR$/ejercicio1/vendor/laravel/helpers" />
+      <path value="$PROJECT_DIR$/ejercicio1/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1UXjJPwIBlWuGGMZ1VXLOqd4w7m" />
@@ -155,7 +156,7 @@
       <updated>1575509762126</updated>
       <workItem from="1575509765997" duration="7959000" />
       <workItem from="1575557527022" duration="1499000" />
-      <workItem from="1575564591433" duration="8621000" />
+      <workItem from="1575564591433" duration="12159000" />
     </task>
     <servers />
   </component>
@@ -167,6 +168,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="175" y="299" width="356" height="169" key="Github.CreateGistDialog/0.0.1366.768@0.0.1366.768" timestamp="1575509839239" />
+    <state x="859" y="307" key="NewPhpFileDialog" timestamp="1575582793775">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="859" y="307" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1575582793775" />
     <state x="833" y="304" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575517327128">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
