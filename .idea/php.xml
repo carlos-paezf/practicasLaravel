@@ -1,34 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="23ae6ef4-6b4b-42bc-bb99-5b1a021ff60d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/laravel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio1/app/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/app/Category.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio1/app/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/app/Post.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio1/app/Tag.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/app/Tag.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio1/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio1/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio1/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio1/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/database/factories/UserFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio1/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/database/seeds/DatabaseSeeder.php" afterDir="false" />
-    </list>
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
-    <pharConfigPath>$PROJECT_DIR$/ejercicio1/composer.json</pharConfigPath>
-    <execution>
-      <executable />
-    </execution>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="PhpWorkspaceProjectConfiguration">
+  <component name="PhpIncludePathManager">
     <include_path>
       <path value="$PROJECT_DIR$/ejercicio1/vendor/phpdocumentor/reflection-common" />
       <path value="$PROJECT_DIR$/ejercicio1/vendor/phpdocumentor/reflection-docblock" />
@@ -119,61 +91,10 @@
       <path value="$PROJECT_DIR$/ejercicio1/vendor/laravel/helpers" />
     </include_path>
   </component>
-  <component name="ProjectId" id="1UXjJPwIBlWuGGMZ1VXLOqd4w7m" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="23ae6ef4-6b4b-42bc-bb99-5b1a021ff60d" name="Default Changelist" comment="" />
-      <created>1575509762126</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1575509762126</updated>
-      <workItem from="1575509765997" duration="7959000" />
-      <workItem from="1575557527022" duration="1499000" />
-      <workItem from="1575564591433" duration="8621000" />
-    </task>
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="175" y="299" width="356" height="169" key="Github.CreateGistDialog" timestamp="1575509839239">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="175" y="299" width="356" height="169" key="Github.CreateGistDialog/0.0.1366.768@0.0.1366.768" timestamp="1575509839239" />
-    <state x="833" y="304" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575517327128">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="833" y="304" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1575517327128" />
-    <state x="687" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1575568310176">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="687" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1575568310176" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/ejercicio1/vendor/autoload.php" />
+    </phpunit_settings>
   </component>
 </project>
