@@ -21,7 +21,7 @@
                         <hr>
                         Etiquetas
                         @foreach($post->tags as $tag)
-                            <a href="{{ route('tag', $tag->slug) }}">
+                            <a href="{{ route('tags', $tag->slug) }}">
                                 {{ $tag->name }}
                             </a>
                             @endforeach
